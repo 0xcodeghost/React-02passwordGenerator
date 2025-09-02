@@ -6,7 +6,7 @@ Quickly generate secure passwords with full control over length and character ty
 ---
 
 ## 🚀 Demo  
-🔗 [Live Demo](#) *(add your deployed link here)*  
+🔗 [Live Demo](https://0xcodeghost.github.io/React-02passwordGenerator/) *(add your deployed link here)*  
 
 ---
 
@@ -30,5 +30,4 @@ Quickly generate secure passwords with full control over length and character ty
 - ⚡ **Vite** – Fast and optimized development build tool  
 - 🎨 **Tailwind CSS** – Modern styling and responsiveness  
 
----
 
