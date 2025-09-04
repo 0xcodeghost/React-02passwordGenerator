@@ -6,7 +6,7 @@ Quickly generate secure passwords with full control over length and character ty
 ---
 
 ## 🚀 Demo  
-🔗 [Live Demo](https://0xcodeghost.github.io/React-02passwordGenerator/) *(add your deployed link here)*  
+🔗 [Live Demo](https://0xcodeghost.github.io/React-02passwordGenerator/)  
 
 ---
 
